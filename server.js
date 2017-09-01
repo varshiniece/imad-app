@@ -9,7 +9,7 @@ var content = {
     title : 'Article one | Varshini Ch',
     heading: 'article one ',
     Date :'sept 1, 2017',
-    content:'<p>
+    content:`<p>
             this is the articleONE - Varsha. and my dte of birth is:22nd june 
             </p>
             <p>
@@ -17,7 +17,7 @@ var content = {
             </p>
             <p>
             third para of this is the articleONE - Varsha. and my dte of birth is:22nd june 
-            </p>'
+            </p>`
     
     
 };
