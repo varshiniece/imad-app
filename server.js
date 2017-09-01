@@ -7,9 +7,20 @@ app.use(morgan('combined'));
 
 var content = {
     title : 'Article one | Varshini Ch',
+    heading: 'article one ',
+    Date :'sept 1, 2017',
+    content:'<p>
+            this is the articleONE - Varsha. and my dte of birth is:22nd june 
+            </p>
+            <p>
+            this is the articleONE - Varsha. second para and my dte of birth is:22nd june 
+            </p>
+            <p>
+            third para of this is the articleONE - Varsha. and my dte of birth is:22nd june 
+            </p>'
     
     
-}
+};
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
