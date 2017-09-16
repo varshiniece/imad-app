@@ -11,13 +11,13 @@ var articles={
     heading: 'Article one ',
     date :'sept 1, 2017',
     content:`<p>
-            this is the articleONE - Varsha. and my dte of birth is:22nd june 
+            this is the articleONE - Varsha. and my date of birth is:22nd june 
             </p>
             <p>
-            this is the articleONE - Varsha. second para and my dte of birth is:22nd june 
+            this is the articleONE - Varsha. second para and my date of birth is:22nd june 
             </p>
             <p>
-            third para of this is the articleONE - Varsha. and my dte of birth is:22nd june 
+            third para of this articleONE is, I am Varsha. and my date of birth is:22nd june 
             </p>`
     
 },  
@@ -35,7 +35,7 @@ var articles={
             heading: 'Article three ',
             date :'sept 15, 2017',
             content:`<p>
-            this is the articleThree- Varsha. and my dte of birth is:22nd june 
+            this is the articleThree- Varsha. and my date of birth is:22nd june 
             </p>`
     
 },
