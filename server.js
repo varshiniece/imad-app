@@ -27,7 +27,7 @@ var articles={
     date :'sept 15, 2017',
     content:`<p>
             this is the articleTwo - Varsha. and my dte of birth is:22nd june 
-            /p>`
+           </p>`
     
 },
     articleThree:{
@@ -36,7 +36,7 @@ var articles={
             date :'sept 15, 2017',
             content:`<p>
             this is the articleThree- Varsha. and my dte of birth is:22nd june 
-            /p>`
+            </p>`
     
 },
         
