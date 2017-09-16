@@ -9,7 +9,7 @@ var articles={
  articleOne : {
   title : 'Article one | Varshini Ch',
     heading: 'Article one ',
-    Date :'sept 1, 2017',
+    date :'sept 1, 2017',
     content:`<p>
             this is the articleONE - Varsha. and my dte of birth is:22nd june 
             </p>
@@ -24,7 +24,7 @@ var articles={
     articleTwo: {
     title : 'Article Two | Varshini Ch P',
     heading: 'Article two ',
-    Date :'sept 15, 2017',
+    date :'sept 15, 2017',
     content:`<p>
             this is the articleTwo - Varsha. and my dte of birth is:22nd june 
             /p>`
@@ -33,7 +33,7 @@ var articles={
     articleThree:{
             title : 'Article THREE | Varshini Ch P D',
             heading: 'Article three ',
-            Date :'sept 15, 2017',
+            date :'sept 15, 2017',
             content:`<p>
             this is the articleThree- Varsha. and my dte of birth is:22nd june 
             /p>`
